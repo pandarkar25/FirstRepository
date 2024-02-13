@@ -18,6 +18,7 @@ System.out.println("A vlue is"+s1.a);//calling non static global variable from s
 //just call by variable name
 //calling type-->variablename
 System.out.println("b value is"+b);
+System.out.println("value of b is"+b);
 	}
 
 }
